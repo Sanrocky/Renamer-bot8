@@ -25,7 +25,7 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 * start -  👻  Check I'm alive or dead
 * rename -  ✍🏼 Rename telegram files
 * convert -  🔄  Convert file to video
-* sthumbnail -  🌌  Current Thumbnail
+* sthumbnail -  🌌  Current Thumbnailhttps://github.com/Sanrocky/Renamer-bot8
 * dthumbnail -  🎇  Delete thumbnail
 
 
